@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="scalacoin-assembly-0.0.1.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/scalacoin-assembly-0.0.1.jar!/"/>
-    </CLASSES>
-    <JAVADOC> </JAVADOC>
-    <SOURCES> </SOURCES>
-  </library>
-</component>
